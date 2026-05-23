@@ -8,3 +8,6 @@ In this challenge, the REST API contains information about football competitions
 Explanation
 
 The competition is UEFA Champions League and the year is 2011. One of the API endpoints can be used to determine that team Chelsea won this competition. Then, another endpoint can be used to find out that the total number of goals scored by Chelsea during this competition is 28, which is the required answer.
+
+The team is Barcelona and the year is 2011. When we fetch all the matches that Barcelona played in the year 2011, we find that they scored a total of 35 goals, which is the required answer.
+
