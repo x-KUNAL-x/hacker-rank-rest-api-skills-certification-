@@ -119,19 +119,6 @@ Goals scored by the target team are extracted from each relevant match and added
 
 ---
 
-## 📂 Repository Structure
-
-```text
-hacker-rank-rest-api-skills-certification/
-│
-├── README.md
-│
-├── solution.py
-│
-└── other-solutions/
-    └── ...
-```
-
 > The repository structure may vary depending on the number of HackerRank solutions included.
 
 ---
