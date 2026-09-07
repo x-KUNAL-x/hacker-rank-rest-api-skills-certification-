@@ -175,7 +175,7 @@ The challenge also strengthened my understanding of API-driven programming and a
 
 **Kunal Kumar**
 
-Python Developer | Cybersecurity Enthusiast
+Python Developer 
 
 ---
 
